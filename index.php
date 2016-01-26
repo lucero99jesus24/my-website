@@ -7,7 +7,7 @@
 
     <body class="comun">
         <div class= "my_name">
-            <span>David</span>
+            <span>JESUS</span>
         </div>
         <div class="button_register">
             <a href="view/register.php">Register</a>
