@@ -1,9 +1,33 @@
-.Left
+.comun
+{
+	text-align: center;
+	background-color: #F5DA81;
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-bottom: 25%;
+
+}
+.marco
+{
+	border: 3px double #FFF;
+}
+.head
+{
+	color: #0101DF;
+	font-size: 200%;
+}
+.name
 {
 	float: left;
 }
-.Right
+.checkbox
 {
-	float: right;
+	float: left;
+	padding-left: 30%;
+
 }
-.comun
+.observation
+{
+	float: left;
+	
+}

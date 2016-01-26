@@ -2,7 +2,7 @@
 
 echo "PERFECTO" . "<br>";
 echo "si quieres repetiro";
-echo '<a href="http://localhost/my-website/view/register.php">Pincha aqui</a>';
+echo '<a href="http://localhost/my-website" >Pincha aqui</a>';
 
 
 ?>
